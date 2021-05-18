@@ -1,0 +1,1 @@
+Terá todas as chaves iguais nos nodos à direito.
